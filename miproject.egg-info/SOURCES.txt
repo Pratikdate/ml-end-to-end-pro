@@ -1,0 +1,7 @@
+README.md
+setup.py
+miproject.egg-info/PKG-INFO
+miproject.egg-info/SOURCES.txt
+miproject.egg-info/dependency_links.txt
+miproject.egg-info/top_level.txt
+src/__init__.py
