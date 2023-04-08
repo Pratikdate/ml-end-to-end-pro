@@ -1,0 +1,7 @@
+[2023-04-08 23:59:41,198] {C:\Users\USER\anaconda3\envs\tensorflow_env\lib\site-packages\numexpr\utils.py:160} INFO - NumExpr defaulting to 4 threads.
+[2023-04-08 23:59:45,687] {C:\Users\USER\Documents\GitHub\ml-end-to-end-pro\src\components\data_injection.py:25} INFO - Enter the Data ingection method or component
+[2023-04-08 23:59:45,700] {C:\Users\USER\Documents\GitHub\ml-end-to-end-pro\src\components\data_injection.py:28} INFO - read the dataset as dataframe
+[2023-04-08 23:59:45,715] {C:\Users\USER\Documents\GitHub\ml-end-to-end-pro\src\components\data_injection.py:32} INFO - Initialise train test split
+[2023-04-08 23:59:45,745] {C:\Users\USER\Documents\GitHub\ml-end-to-end-pro\src\components\data_injection.py:38} INFO - Ingection of data is completed
+[2023-04-08 23:59:45,784] {c:\users\user\documents\github\ml-end-to-end-pro\src\components\data_trnsformation.py:76} INFO - read train and test of data done
+[2023-04-08 23:59:45,784] {c:\users\user\documents\github\ml-end-to-end-pro\src\components\data_trnsformation.py:78} INFO - obtaining preprocessor object

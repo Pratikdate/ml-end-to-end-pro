@@ -3,4 +3,5 @@ pandas
 matplotlib
 catboost
 xgboost
--e .
+dill
+-e . 

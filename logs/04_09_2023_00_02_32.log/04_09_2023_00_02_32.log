@@ -1,0 +1,9 @@
+[2023-04-09 00:02:33,002] {C:\Users\USER\anaconda3\envs\tensorflow_env\lib\site-packages\numexpr\utils.py:160} INFO - NumExpr defaulting to 4 threads.
+[2023-04-09 00:02:35,955] {C:\Users\USER\Documents\GitHub\ml-end-to-end-pro\src\components\data_injection.py:25} INFO - Enter the Data ingection method or component
+[2023-04-09 00:02:35,963] {C:\Users\USER\Documents\GitHub\ml-end-to-end-pro\src\components\data_injection.py:28} INFO - read the dataset as dataframe
+[2023-04-09 00:02:35,975] {C:\Users\USER\Documents\GitHub\ml-end-to-end-pro\src\components\data_injection.py:32} INFO - Initialise train test split
+[2023-04-09 00:02:35,990] {C:\Users\USER\Documents\GitHub\ml-end-to-end-pro\src\components\data_injection.py:38} INFO - Ingection of data is completed
+[2023-04-09 00:02:36,011] {c:\users\user\documents\github\ml-end-to-end-pro\src\components\data_trnsformation.py:76} INFO - read train and test of data done
+[2023-04-09 00:02:36,019] {c:\users\user\documents\github\ml-end-to-end-pro\src\components\data_trnsformation.py:78} INFO - obtaining preprocessor object
+[2023-04-09 00:02:36,019] {c:\users\user\documents\github\ml-end-to-end-pro\src\components\data_trnsformation.py:55} INFO - Numerical columns standard scaling completed
+[2023-04-09 00:02:36,019] {c:\users\user\documents\github\ml-end-to-end-pro\src\components\data_trnsformation.py:56} INFO - categorical coulumns encoding completed

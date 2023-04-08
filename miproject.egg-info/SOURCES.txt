@@ -10,7 +10,7 @@ src/logger.py
 src/utils.py
 src/components/__init__.py
 src/components/data_injection.py
-src/components/datatrnsformation.py
+src/components/data_trnsformation.py
 src/components/model_trainer.py
 src/pipeline/__init__.py
 src/pipeline/train_pipeline.py

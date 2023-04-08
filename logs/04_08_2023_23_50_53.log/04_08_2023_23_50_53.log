@@ -1,0 +1,4 @@
+[2023-04-08 23:50:54,581] {C:\Users\USER\anaconda3\envs\tensorflow_env\lib\site-packages\numexpr\utils.py:160} INFO - NumExpr defaulting to 4 threads.
+[2023-04-08 23:50:59,977] {C:\Users\USER\Documents\GitHub\ml-end-to-end-pro\src\components\data_injection.py:25} INFO - Enter the Data ingection method or component
+[2023-04-08 23:50:59,994] {C:\Users\USER\Documents\GitHub\ml-end-to-end-pro\src\components\data_injection.py:28} INFO - read the dataset as dataframe
+[2023-04-08 23:51:00,021] {C:\Users\USER\Documents\GitHub\ml-end-to-end-pro\src\components\data_injection.py:32} INFO - Initialise train test split
