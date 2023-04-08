@@ -2,6 +2,7 @@ import sys
 from dataclasses import dataclass
 import pandas as pd
 import numpy as np
+from src.utils import save_object
 
 import os
 from sklearn.compose import ColumnTransformer
@@ -84,7 +85,7 @@ class DataTransformation:
             numerical_columns=["writing_score","reading_score"]
 
 
-            input_feature_train_df=train_df.drop(columns=["math_score"],axis=1)
+            input_feature_train_df=train_df.drop(columns=[target_column_name],axis=1)
             target_feature_train_df=train_df[target_column_name]
 
             input_feature_test_df=train_df.drop(columns=[target_column_name],axis=1)
